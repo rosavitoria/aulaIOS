@@ -1,0 +1,6 @@
+let peso = 65.0;
+let altura = 1.83;
+
+let imc = peso / (altura * altura) 
+
+console.log(peso / altura * altura / 2)
